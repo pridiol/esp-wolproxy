@@ -1,2 +1,2 @@
 # wolproxy
-listens for magic packets on a specific ip address and broadcasts them on the local network
+esp8266 listens for magic packets on a specific ip address and broadcasts them on the local network
